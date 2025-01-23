@@ -1,5 +1,7 @@
 Welcome 🖐 to Ecommerce Website
 
+Project overview
+
 An e-commerce website built with HTML, CSS, and JavaScript creates an interactive online store with organized content, appealing designs, and dynamic features. HTML provides structure, CSS enhances visuals, and JavaScript enables functionalities like shopping carts and real-time updates.
 
 Have a look
@@ -28,3 +30,8 @@ About us
 Contact
 
 ![image alt](https://github.com/ashika43/ecommerce-website/blob/c44e631d80b6edc4057b8455f3219d5a0dd3585f/contact.jpeg)
+
+Stack Used
+HTML
+CSS
+JavaScript
