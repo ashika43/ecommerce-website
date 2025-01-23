@@ -19,4 +19,8 @@ Shopping cards
 
 Gallery
 
-![image alt](
+![image alt](https://github.com/ashika43/ecommerce-website/blob/2e36f5d33f27bb201129ac2c4388d3ab6f67c41e/gallery.jpeg)
+
+About us
+
+![image alt]()
