@@ -4,4 +4,4 @@ An e-commerce website built with HTML, CSS, and JavaScript creates an interactiv
 
 Have a look
 Home Page
-https://github.com/ashika43/ecommerce-website/blob/77b0e4e6f0283fdacd505ef77c7be639d57c1383/home.jpeg
+![image alt](https://github.com/ashika43/ecommerce-website/blob/77b0e4e6f0283fdacd505ef77c7be639d57c1383/home.jpeg)
