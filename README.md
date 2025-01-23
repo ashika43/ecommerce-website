@@ -23,4 +23,8 @@ Gallery
 
 About us
 
-![image alt]()
+![image alt](https://github.com/ashika43/ecommerce-website/blob/77e5950223b3d06ba45f079f03bf60e338014cda/about.jpeg)
+
+Contact
+
+![image alt](
