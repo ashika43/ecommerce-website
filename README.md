@@ -15,4 +15,8 @@ Section image
 
 Shopping cards
 
+![image alt](https://github.com/ashika43/ecommerce-website/blob/d273330552a53d534c52c9a14fc29c05dd8a2f6e/cards.jpeg)
+
+Gallery
+
 ![image alt](
